@@ -21,3 +21,5 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+https://i-team-society-web-based-system.vercel.app/
